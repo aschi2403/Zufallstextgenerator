@@ -1,0 +1,9 @@
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\bin\Debug\Zufallstextgenerator.exe.config
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\bin\Debug\Zufallstextgenerator.exe
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\bin\Debug\Zufallstextgenerator.pdb
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\obj\Debug\Zufallstextgenerator.csprojResolveAssemblyReference.cache
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\obj\Debug\Zufallstextgenerator.exe
+R:\Konsolenapps\Zufallstextgenerator\Zufallstextgenerator\obj\Debug\Zufallstextgenerator.pdb
+\\JakobServer\shares\publicsoftware\Zufallstextgenerator\Zufallstextgenerator\bin\Debug\Zufallstextgenerator.exe.config
+\\JakobServer\shares\publicsoftware\Zufallstextgenerator\Zufallstextgenerator\obj\Debug\Zufallstextgenerator.exe
+\\JakobServer\shares\publicsoftware\Zufallstextgenerator\Zufallstextgenerator\obj\Debug\Zufallstextgenerator.pdb
